@@ -1,0 +1,6 @@
+@AuthKalumManagement_HostAddress = http://localhost:5255
+
+GET {{AuthKalumManagement_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
